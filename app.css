@@ -1,0 +1,56 @@
+.container-fluid {
+    flex: content;
+    margin: 0 auto;
+    color: black;
+}
+
+.jumbotron {
+    column-gap: 3em;
+    background-color: blue;
+    color: white;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
+.alert {
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
+.skills {
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
+.experience {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.card {
+    align-content: auto;
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    display: flex;
+}
+
+.jumbotron-fluid {
+    background-color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    color: black;
+    text-align: center;
+}
